@@ -1,0 +1,8 @@
+- 让 add deal 可以 work
+- 刷新丢失field
+- 海淘直邮没有设置默认值
+- 翻页问题
+- url routing 设计改动
+- webpack 配置
+- sign in pre-build UI
+- 添加brand 搜索或者首字母排列
