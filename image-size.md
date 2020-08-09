@@ -5,17 +5,17 @@
 
 ## 首页
 - banner - 642x280
-- 最热 - 200x200
-- 折扣thumbnail - 400x270
+- 最热 - 286x286
+- 折扣thumbnail - 220x220
 
 ## 折扣/文章详情页
-- banner - 750x600
+- banner - 750x750
 - item - 323x216
 - brand thumbnail - 350x96
 
 ## 品牌（文章）页
-- 热门品牌 - 204x204
-- 文章thumbnail - 670x328
+- 热门品牌 - 320x180 (Need update)
+- 文章thumbnail - 670x328 
 
 ## 品牌详情页
-- banner - 750x600
+- banner - 750x750
