@@ -10,7 +10,7 @@
 
 ## 折扣/文章详情页
 - banner - 750x750
-- item - 323x216
+- item - 323x323
 - brand thumbnail - 350x96
 
 ## 品牌（文章）页
